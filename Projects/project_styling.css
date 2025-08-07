@@ -75,6 +75,11 @@ header p {
 /* Project Image */
 .project-image {
     display: block;
+    text-align: center;
+    margin-top: 5px;
+    font-style: italic;
+    font-size: 0.9em;
+    color: #555;
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
