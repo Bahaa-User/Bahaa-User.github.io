@@ -137,4 +137,7 @@ footer a:hover {
 }
 .img_desc_citation{
     font-size: 24px;
+    display: block;       /* makes it take the full width */
+    text-align: center;   /* centers the text */
+    margin-top: 8px;
 }
